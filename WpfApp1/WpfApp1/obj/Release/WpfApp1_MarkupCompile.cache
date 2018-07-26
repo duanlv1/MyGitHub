@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-D:\Test\MyGitHub\WpfApp1\WpfApp1\obj\Debug\
+D:\Test\MyGitHub\WpfApp1\WpfApp1\obj\Release\
 WpfApp1
 none
 false
-DEBUG;TRACE
+TRACE
 D:\Test\MyGitHub\WpfApp1\WpfApp1\App.xaml
 11151548125
 
